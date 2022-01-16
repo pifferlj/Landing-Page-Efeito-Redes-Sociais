@@ -20,7 +20,7 @@ canvas {
   flex-wrap: wrap;
   justify-content: center;
   min-width: 300px;
-  padding: 20px 15px;
+  padding: 80px 45px;
   border-radius: 10px;
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
